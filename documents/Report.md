@@ -8,5 +8,5 @@
 * успешных - 33 (71.73%)
 * неуспешных - 13 (28,27%)
 
-[![Отчёт от 15.07.2023.png](%CE%F2%F7%B8%F2%20%EE%F2%2015.07.2023.png)](https://github.com/PaulDehant/QaDiplom/blob/main/documents/%D0%9E%D1%82%D1%87%D1%91%D1%82%20%D0%BE%D1%82%2015.07.2023.png)https://github.com/PaulDehant/QaDiplom/blob/main/documents/%D0%9E%D1%82%D1%87%D1%91%D1%82%20%D0%BE%D1%82%2015.07.2023.png
+[![Отчёт от 15.07.2023.png](%CE%F2%F7%B8%F2%20%EE%F2%2015.07.2023.png)](https://github.com/PaulDehant/QaDiplom/blob/main/documents/%D0%9E%D1%82%D1%87%D1%91%D1%82%20%D0%BE%D1%82%2015.07.2023.png)
 
